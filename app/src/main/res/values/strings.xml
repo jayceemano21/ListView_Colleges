@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListView_Colleges</string>
+    <string-array name="Colleges">
+        <item>Institute of Computing Sciences</item>
+        <item>Faculty of Engineering</item>
+        <item>College of Fine Arts an Design</item>
+        <item>Faculty of Arts and Letters</item>
+        <item>Faculty of Medicine</item>
+    </string-array>
+    <string-array name="Year">
+        <item>Established 2014</item>
+        <item>Established 1907</item>
+        <item>Established 1906</item>
+        <item>Established 1905</item>
+        <item>Established 1904</item>
+    </string-array>
+</resources>
